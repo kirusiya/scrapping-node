@@ -1,6 +1,5 @@
 import { chromium } from 'playwright';
 import fetch from 'node-fetch';
-import hasher from 'wordpress-hash-node';
 
 (async () => {
     const browser = await chromium.launch({ headless: true });
