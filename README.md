@@ -2,6 +2,7 @@
 
 Hacer scrapping de ofertas de empleo publicadas en LinkedIn usando Node.js y Playwright.  
 El script extrae datos como título, empresa, ubicación, descripción y enlace, y los envía a una API de WordPress.
+Mira el video en https://www.youtube.com/watch?v=2-36kxRPsS0
 
 ---
 
