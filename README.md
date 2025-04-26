@@ -12,6 +12,12 @@ El script extrae datos como título, empresa, ubicación, descripción y enlace,
 
 ---
 
+## 📦 Descarga la la carpeta "plugin-scrapping"
+
+Sube la carpeta "plugin-scrapping" a "wp-content/plugins" y activa el plugin y eso es todo!
+
+---
+
 ## 📦 Instalación de dependencias
 
 En la raíz del proyecto, ejecuta:
@@ -19,6 +25,4 @@ En la raíz del proyecto, ejecuta:
 ```bash
 npm install
 
----
 
-## 📦 sube la carpeta "plugin-scrapping" a "wp-content/plugins" y activa el plugin y eso es todo!
