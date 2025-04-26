@@ -18,3 +18,7 @@ En la raíz del proyecto, ejecuta:
 
 ```bash
 npm install
+
+---
+
+## 📦 sube la carpeta "plugin-scrapping" a "wp-content/plugins" y activa el plugin y eso es todo!
