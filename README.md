@@ -26,6 +26,7 @@ En la raíz del proyecto, ejecuta:
 ```bash
 npm install
 ```
+---
 
 ## 🔣 Developer   
 
